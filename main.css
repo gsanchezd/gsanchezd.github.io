@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+body
+{
+	font-family: 'Roboto Slab', serif;
+}
+
+.resume
+{
+	    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
+.jumbotron .label{
+	margin:20px;
+	padding:0px 20px 0px 20px;
+	font-size:14px;
+}
